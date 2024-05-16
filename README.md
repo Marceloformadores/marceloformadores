@@ -1,8 +1,7 @@
 ### *Boas vindas* 💙
 👋 Olá. Meu nome é  **Marcelo Medeiros** 
 
-  
-- Estou estudando na [Alura] (Https://www.alura.com.br)
+  - Estou estudando na [Alura] (Https://www.alura.com.br)
 - Estou me dsenvovlendo na linguagem Java Script
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
